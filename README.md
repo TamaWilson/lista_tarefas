@@ -1,10 +1,8 @@
-# Conversor Moeda
-
-Conversor de moedas básico
-
-Projeto 4 do curso [Criação de Apps Android e iOS com Flutter](https://www.udemy.com/curso-completo-flutter-app-android-ios/)
+# Lista de tarefas
 
 App básico de lista de tarefas.
+
+Projeto 4 do curso [Criação de Apps Android e iOS com Flutter](https://www.udemy.com/curso-completo-flutter-app-android-ios/)
 
 # Adições originais
 
